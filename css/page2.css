@@ -150,6 +150,9 @@ html, body {
 
 /* ===================== 425 ===================== */
 @media(max-width: 426px){
+  .main{
+    margin-top: -80px;
+  }
   .logo-box img{
     width: 269px;
     height: 98px;
@@ -167,12 +170,4 @@ html, body {
     background: url(../img/main__btn.svg);
     width: 295px;
   }
-}
-
-/* ===================== 375 ===================== */
-@media(max-width: 376px){
-}
-
-/* ===================== 320 ===================== */
-@media(max-width: 321px){
 }
